@@ -15,13 +15,11 @@ body {
     color: #ffffff;
 }
 
-.header h1 {
+.horiseon {
     display: inline-block;
     font-size: 48px;
-}
-
-.header h1 .seo {
-    color: #d9dcd6;
+    color: #ffffff;
+    text-align: left;
 }
 
 .header div {
@@ -193,8 +191,5 @@ p {
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
-}
-
-.footer h2 {
     font-size: 20px;
 }
